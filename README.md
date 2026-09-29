@@ -12,7 +12,7 @@ behind each flag.
 (https://ysamruddhi.github.io/Trinetra-Prototype/)
 
 ## Demo video
-[paste your YouTube link]
+(https://youtu.be/Ks09Yx7MBNY?si=5yWNuGg3xovBL28w)]
 
 ## What the prototype shows
 - Role-based views: MP, District Authority, State Nodal, Ministry, Admin
